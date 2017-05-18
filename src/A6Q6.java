@@ -65,7 +65,7 @@ public class A6Q6 {
         
         
         System.out.println("The lowest mark is a  " + array[0]);
-        System.out.println("The highest mark is a" + array[students - 1]);   
+        System.out.println("The highest mark is a " + array[students - 1]);   
         
         System.out.println("The average is " + average);
         
